@@ -14,6 +14,7 @@ import javax.ws.rs.QueryParam;
  *
  * @author Usuario
  */
+//teste
 @Path("Class1")
 public class Partida {
     
